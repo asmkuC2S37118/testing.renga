@@ -1,0 +1,98 @@
+div {
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding-top: 10px;
+}
+
+.three {
+    color: white;
+    padding-left: 50%
+}
+
+.six {
+    color: white;
+    padding-left: 50%;
+}
+
+h4 {
+
+    color: black;
+    display: inline;
+    padding: 20px;
+}
+
+h5 {
+    color: black;
+    display: inline;
+    padding: 95px;
+    ;
+
+}
+
+.one {
+    padding-right: 20px;
+}
+
+.two {
+    background-color: black;
+    color: white;
+    width: 200px;
+    margin-inline-end: 45px;
+
+}
+
+.four {
+    background-color: black;
+    color: white;
+    width: 150px;
+    padding-left: 10px;
+}
+
+.five {
+    color: white;
+    width: 200px;
+}
+
+.seven {
+    color: black;
+
+    padding-left: 10Opx;
+
+
+}
+
+.eight {
+    color: black;
+    padding-left: 300px;
+
+}
+
+table {
+    display: inline-block;
+}
+
+.ten {
+    color: white;
+    padding-left: 200px;
+}
+
+.to {
+    color: black;
+    padding-left: 100px;
+}
+
+body {
+    background-image: url('mu.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    
+    }
+
+
+
+h5 {
+    justify-content: space-between
+}
